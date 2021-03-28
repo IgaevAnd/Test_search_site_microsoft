@@ -1,5 +1,6 @@
 # Test_search_site_microsoft
 Testing search functionality on docs.microsoft.com
+
 Данный тест предусматривает проверку корректности поиска на веб-сайте docs.microsoft.com.
 Основной задачей являлось:
 - произвести проверку первых 50 результатов поиска,
